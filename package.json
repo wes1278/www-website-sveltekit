@@ -9,12 +9,14 @@
   "devDependencies": {
     "@sveltejs/adapter-node": "next",
     "@sveltejs/kit": "next",
-    "svelte": "^3.44.2"
+    "svelte": "^3.44.2",
+    "svelte-range-slider-pips": "^2.0.3"
   },
   "type": "module",
   "dependencies": {
     "@fontsource/fira-mono": "^4.2.2",
     "@lukeed/uuid": "^2.0.0",
-    "cookie": "^0.4.1"
+    "cookie": "^0.4.1",
+    "uuid": "^8.3.2"
   }
 }
