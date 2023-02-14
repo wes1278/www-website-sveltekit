@@ -1,4 +1,5 @@
 # sveltekit
+#hi kamal
 
 This repo contains code for a SvelteKit application generated using the [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte) package.
 
