@@ -1,5 +1,4 @@
 # sveltekit
-#hi kamal
 
 This repo contains code for a SvelteKit application generated using the [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte) package.
 
@@ -9,7 +8,6 @@ To create your own SvelteKit project, you can either
 - Create a new SvelteKit project by following the [SvelteKit Getting Started Guide](https://kit.svelte.dev/docs) and then making a few small modifications as shown in [this commit](https://github.com/render-examples/sveltekit/commit/3ea50803f118da041745fd8cb51094972ac87f3c) to deploy it to Render as a Node.js service.
 
 ## Developing
-#hi kamal from down here.
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
